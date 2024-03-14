@@ -1,6 +1,8 @@
 name: ibrnet
 channels:
   - defaults
+  - pytorch
+  - nvidia
 dependencies:
   - _libgcc_mutex=0.1=main
   - ca-certificates=2021.1.19=h06a4308_1
